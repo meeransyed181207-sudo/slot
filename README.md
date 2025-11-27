@@ -92,17 +92,35 @@ Execute the program using runserver command.
 
         </tr>
         </table>
-        <font size="50"   color="purple"><b>19AI304-- FUNDAMENTALS OF C PROGRAMMING</b></font><br>
-        <font size="50"  color="BLACK"><b>19EN101-- COMMUNICATION ENGLSIH</b></font><br>
-        <font size="50"  color="green"><b>19AI414-- FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</b></font><br>
-        <font size="50"  color="RED"><b>ECA-M -- MENTOR MEET</b></font><br>
+        <table  width="500"  height="300" border="5" cellspacing="5" ><caption><h1>SUBJECTS</h1></caption>
+            <tr>
+            <td>1.</td>
+            <td><b>19AI304-- FUNDAMENTALS OF C PROGRAMMING</b></td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td><b>19EN101-- COMMUNICATION ENGLSIH</b></td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td><b>19AI414-- FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</b></td>
+            </tr>
+            <tr>
+                <td>4.
+                </td>
+                <td><b>ECA-M -- MENTOR MEET</b></td>
+            </tr>
+        
+        
+        </table>
+        
     </body>
 
 </html>
 ```
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
